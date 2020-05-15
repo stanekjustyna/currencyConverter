@@ -1,4 +1,4 @@
-#Currency Exchanger
+#Currency Converter
 
 This small RESTful API allows users to convert currencies.<br/> 
 Application uses current currency rates from NBP API.
